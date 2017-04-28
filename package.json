@@ -47,6 +47,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "cb2promise": "^1.0.2"
+    "cb2promise": "^1.0.6"
   }
 }
